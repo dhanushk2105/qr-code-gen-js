@@ -16,7 +16,7 @@ This is a simple web application that generates QR codes from text or URLs using
 ## Installation
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/qr-code-generator.git
+    git clone https://github.com/dhanushk2105/qr-code-gen-js.git
     ```
 2. **Navigate to the project directory:**
     ```bash
